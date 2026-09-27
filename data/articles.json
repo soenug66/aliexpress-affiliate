@@ -1,1 +1,20 @@
-
+[
+  {
+    "id": 1,
+    "title": "Wireless Earbuds Murah: Apa yang Perlu Diperhatikan?",
+    "excerpt": "Panduan singkat memilih earbuds untuk pemakaian harian.",
+    "category": "Elektronik"
+  },
+  {
+    "id": 2,
+    "title": "Cara Membandingkan Gadget Sebelum Membeli",
+    "excerpt": "Checklist praktis agar tidak hanya terpaku pada harga.",
+    "category": "Gadget"
+  },
+  {
+    "id": 3,
+    "title": "Ide Produk Rumah yang Praktis untuk Sehari-hari",
+    "excerpt": "Beberapa kategori produk yang layak dipertimbangkan.",
+    "category": "Rumah"
+  }
+]
